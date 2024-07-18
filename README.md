@@ -4,35 +4,34 @@ hihi
 
 ### Dependencies:
 
-* Python3
+* Python3 (3.9.2)
+* Pandas (2.2.2)
+* Librosa (0.10.2.post1)
 <!--
 * Pytorch (torch, torchvision and other dependencies for Pytorch)
 * Numpy
-* Librosa 
 * nlpaug (0.0.14)
-* OpenCV (4.2.0)
-* Pandas (0.22.0)
 * scikit-learn (0.23.1)
 * tqdm (4.48.0)
 * cudnn (CUDA for training on GPU)
 -->
 
 ### directory
-.
-├── data/
-├── images/
-├── models/
-├── nets/
-├── scripts/
-├── train.py
-├── eval.py
-├── image_dataloader.py
-├── utils.py
+.<br>
+├── data/<br>
+├── images/<br>
+├── models/<br>
+├── nets/<br>
+├── scripts/<br>
+├── train.py<br>
+├── eval.py<br>
+├── image_dataloader.py<br>
+├── utils.py<br>
 └── README.md
 
-- data: raw data. 모은 데이터는 허깅페이스에 업로드 예정
-- images: description
-- models: training 결과저장. ckpt_best.pkl
-- nets: model
-- scripts: train/eval등 run.sh 
+- data/: raw data. 모은 데이터는 허깅페이스에 업로드 예정
+- images/: description
+- models/: training 결과저장. ckpt_best.pkl
+- nets/: model
+- scripts/: train/eval등 run.sh 
 
