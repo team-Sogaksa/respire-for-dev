@@ -38,7 +38,7 @@ hihi
 └── README.md
 ```
 
-- data/: raw data. 모은 데이터는 허깅페이스에 업로드 예정
+- data/: raw data <!--. 모은 데이터는 허깅페이스에 업로드 예정-->
 - images/: description
 - models/: training 결과저장. ckpt_best.pkl
 - nets/: model
