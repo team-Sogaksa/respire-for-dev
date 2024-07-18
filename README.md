@@ -18,23 +18,25 @@ hihi
 <br>...
 
 ### Directory
-.<br>
-├── data/<br>
-│   ├── ICBHI_final_database/<br>
-│   │       ├── 101_1b1_Al_sc_Meditron.txt<br>
-│   │       ├── 101_1b1_Al_sc_Meditron.wav<br>
-│   │       ...<br>
-│   ├── metadata<br>
-│   ...<br>
-├── images/<br>
-├── models/<br>
-├── nets/<br>
-├── scripts/<br>
-├── train.py<br>
-├── eval.py<br>
-├── image_dataloader.py<br>
-├── utils.py<br>
+```bash
+.
+├── data/
+│   ├── ICBHI_final_database/
+│   │       ├── 101_1b1_Al_sc_Meditron.txt
+│   │       ├── 101_1b1_Al_sc_Meditron.wav
+│   │       ...
+│   ├── metadata
+│   ...
+├── images/
+├── models/
+├── nets/
+├── scripts/
+├── train.py
+├── eval.py
+├── image_dataloader.py
+├── utils.py
 └── README.md
+```
 
 - data/: raw data. 모은 데이터는 허깅페이스에 업로드 예정
 - images/: description
