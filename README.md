@@ -15,19 +15,28 @@ hihi
 * tqdm (4.48.0)
 * cudnn (CUDA for training on GPU)
 -->
+<br>...
 
-### directory
-.<br>
-├── data/<br>
-├── images/<br>
-├── models/<br>
-├── nets/<br>
-├── scripts/<br>
-├── train.py<br>
-├── eval.py<br>
-├── image_dataloader.py<br>
-├── utils.py<br>
+### Directory
+```bash
+.
+├── data/
+│   ├── ICBHI_final_database/
+│   │       ├── 101_1b1_Al_sc_Meditron.txt
+│   │       ├── 101_1b1_Al_sc_Meditron.wav
+│   │       ...
+│   ├── metadata
+│   ...
+├── images/
+├── models/
+├── nets/
+├── scripts/
+├── train.py
+├── eval.py
+├── image_dataloader.py
+├── utils.py
 └── README.md
+```
 
 - data/: raw data. 모은 데이터는 허깅페이스에 업로드 예정
 - images/: description
