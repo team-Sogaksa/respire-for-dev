@@ -1,5 +1,7 @@
 scripts/run.sh
-/test
+test/
+data/ICBHI_final_database/
+data/*.txt
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,visualstudiocode,python,jupyternotebooks

@@ -15,10 +15,17 @@ hihi
 * tqdm (4.48.0)
 * cudnn (CUDA for training on GPU)
 -->
+<br>...
 
-### directory
+### Directory
 .<br>
 ├── data/<br>
+│   ├── ICBHI_final_database/<br>
+│   │       ├── 101_1b1_Al_sc_Meditron.txt<br>
+│   │       ├── 101_1b1_Al_sc_Meditron.wav<br>
+│   │       ...<br>
+│   ├── metadata<br>
+│   ...<br>
 ├── images/<br>
 ├── models/<br>
 ├── nets/<br>
